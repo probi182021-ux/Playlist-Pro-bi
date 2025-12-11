@@ -1,0 +1,75 @@
+#EXTM3U
+
+############################
+## 🇸🇳 CHAÎNES SÉNÉGAL
+############################
+#EXTINF:-1 tvg-id="RTS1.sn" group-title="Sénégal",RTS1
+https://iptv-org.github.io/streams/sn_rts1.m3u8
+
+#EXTINF:-1 tvg-id="SenTV.sn" group-title="Sénégal",Sen TV
+https://iptv-org.github.io/streams/sn_sentv.m3u8
+
+#EXTINF:-1 tvg-id="2STV.sn" group-title="Sénégal",2STV
+https://iptv-org.github.io/streams/sn_2stv.m3u8
+
+#EXTINF:-1 tvg-id="WalfTV.sn" group-title="Sénégal",Walf TV
+https://iptv-org.github.io/streams/sn_walftv.m3u8
+
+#EXTINF:-1 tvg-id="ToubaTV.sn" group-title="Sénégal",Touba TV
+http://tv.touba.online/live/stream.m3u8
+
+
+############################
+## ⚽ SPORTS (FLUX GRATUITS / INTERNATIONAUX)
+############################
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/boRBTS/master_720p.m3u8
+
+#EXTINF:-1 group-title="Sports",FIFA+ TV
+https://api.fifa.com/api/wc/match/live/stream.m3u8
+
+#EXTINF:-1 group-title="Sports",ICC TV (Cricket)
+https://icc-cricket.sport/allmatches.m3u8
+
+
+############################
+## 🎬 FILMS & SÉRIES (FREE-TO-AIR)
+############################
+#EXTINF:-1 group-title="Films & Séries",Pluto Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8e2e1d5ad95f00092bbf1f/master.m3u8
+
+#EXTINF:-1 group-title="Films & Séries",FilmRise TV
+https://linear-44.frequency.stream/dist/plex/44/hls/master.m3u8
+
+
+############################
+## 🌍 CHAÎNES MONDE (OUVERTES)
+############################
+#EXTINF:-1 group-title="Monde",DW English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@123456/master.m3u8
+
+#EXTINF:-1 group-title="Monde",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="Monde",Al Jazeera English
+https://live-hls-global-aljazeera.stream/master.m3u8
+
+
+############################
+## 🎵 MUSIQUE
+############################
+#EXTINF:-1 group-title="Musique",Trace Urban (open stream)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Musique",Ibiza Global Radio TV
+https://ibizaglobal.tv/live/stream.m3u8
+
+
+############################
+## 📺 DOCUMENTAIRES
+############################
+#EXTINF:-1 group-title="Documentaires",NASA TV
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV1-Public/master.m3u8
+
+#EXTINF:-1 group-title="Documentaires",CGTN Documentary
+https://news.cgtn.com/resource/live/documentary.m3u8
